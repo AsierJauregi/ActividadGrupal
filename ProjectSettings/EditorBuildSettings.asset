@@ -6,8 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/EscapeRoom.unity
+    guid: 562653f16519904459f8f4d629999ee3
+  - enabled: 1
+    path: Assets/MazeRoom/MazeRoom.unity
+    guid: 86d12e515d6a8fc4b88947307013ac19
+  - enabled: 1
+    path: Assets/Asier/RoomScene/SceneAsier.unity
+    guid: 2b359a4c5e67ed2489d5ab20a4905fb4
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
